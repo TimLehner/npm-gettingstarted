@@ -1,0 +1,25 @@
+{
+  "name": "tlehner-learnyounode",
+  "version": "1.0.0",
+  "description": "learnyounode tutorial",
+  "main": "Collect.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tehner",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.0",
+    "strftime": "^0.10.0",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+  },
+  "keywords": [
+    "learnyounode",
+    "tutorial"
+  ],
+  "bugs": {
+  },
+}
